@@ -1,0 +1,8 @@
+torch
+transformers
+einops
+numpy
+matplotlib
+pandas
+tqdm
+ipykernel
