@@ -37,3 +37,6 @@ Thumbs.db
 # IDE settings
 .vscode/
 .idea/
+
+# data files
+pretrain.txt
